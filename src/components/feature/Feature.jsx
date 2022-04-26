@@ -2,6 +2,7 @@ import React from 'react';
 import './feature.css';
 
 const Feature = ({ title, text }) => (
+  // Feature component
   <div className="almight__features-container__feature">
     <div className="almight__features-container__feature-title">
       <div />
